@@ -1,30 +1,51 @@
-# Controle Financeiro Essencial
+# 💰 Personal Finance Tracker
 
+**Python | OpenPyXL | Excel Automation**
 
-Sistema de controle financeiro desenvolvido em Python
-com a biblioteca OpenPyXL.
+I'm developing a financial tracking tool using Python and Excel, designed to help freelancers and small businesses organize their income and expenses.
 
-## Objetivo
+The idea is to automate the creation of a financial spreadsheet and gradually add features that make financial monitoring easier.
 
-Criar uma ferramenta para pequenos negócios e
-profissionais autônomos acompanharem suas finanças.
+## Project Goals
 
-## Tecnologias
+- Generate an Excel workbook automatically using Python.
+- Organize financial information into separate worksheets.
+- Record and categorize income and expenses.
+- Build a financial dashboard with useful indicators.
+- Make the tool simple enough for everyday use.
 
-- Python
-- OpenPyXL
-- Microsoft Excel
-- Inteligência Artificial como apoio ao desenvolvimento
+## Technologies
 
-## Funcionalidades
+- **Python** — Workbook generation and automation.
+- **OpenPyXL** — Excel file creation and formatting.
+- **Microsoft Excel** — Financial tracking interface.
 
-- [x] Criação automática do arquivo Excel
-- [x] Estrutura com quatro abas
-- [ ] Registro de receitas e despesas
-- [ ] Validação de dados
-- [ ] Dashboard financeiro
-- [ ] Gráficos e indicadores
+AI tools are also used to support development and troubleshooting.
 
-## Status
+## Development Progress
 
-Em desenvolvimento — Dia 1.
+- [x] Initial Python project setup
+- [x] Automatic Excel workbook creation
+- [x] Four-worksheet structure
+- [ ] Income and expense management
+- [ ] Data validation and dropdown lists
+- [ ] Financial dashboard
+- [ ] Charts and financial indicators
+
+## Project Status
+
+**Work in progress.**
+
+The current version focuses on building the spreadsheet structure. Additional features will be documented as they are implemented and tested.
+
+## Next Steps
+
+My next goal is to make the spreadsheet easier to use by adding transaction management, automatic calculations, and a dashboard.
+
+## Author
+
+**Thales Farias**
+
+Data Analytics | Python | Financial Services
+
+[GitHub](https://github.com/thalesfreirefarias)
