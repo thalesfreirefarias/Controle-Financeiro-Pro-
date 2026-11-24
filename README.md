@@ -1,51 +1,81 @@
-# 💰 Personal Finance Tracker
 
-**Python | OpenPyXL | Excel Automation**
+# 💰 Controle Financeiro Pro 
 
-I'm developing a financial tracking tool using Python and Excel, designed to help freelancers and small businesses organize their income and expenses.
+![Status](https://img.shields.io/badge/Status-In%20Development-orange)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Cloud](https://img.shields.io/badge/Cloud-Planned-lightgrey)
 
-The idea is to automate the creation of a financial spreadsheet and gradually add features that make financial monitoring easier.
+## 📌 Project Overview
 
-## Project Goals
+Controle Financeiro Pro  is a personal finance management
+project designed to transform financial data into actionable
+insights through automation, analytics and data visualization.
 
-- Generate an Excel workbook automatically using Python.
-- Organize financial information into separate worksheets.
-- Record and categorize income and expenses.
-- Build a financial dashboard with useful indicators.
-- Make the tool simple enough for everyday use.
+The project aims to deliver two integrated solutions:
+an automated Excel dashboard and a cloud-based web application.
 
-## Technologies
+## 🎯 Objectives
 
-- **Python** — Workbook generation and automation.
-- **OpenPyXL** — Excel file creation and formatting.
-- **Microsoft Excel** — Financial tracking interface.
+- Automate personal financial management.
+- Track income, expenses and savings.
+- Develop interactive financial dashboards.
+- Monitor budgets and financial goals.
+- Build a cloud-based financial application.
 
-AI tools are also used to support development and troubleshooting.
+## 🛠️ Technology Stack
 
-## Development Progress
+### Core Technologies
 
-- [x] Initial Python project setup
-- [x] Automatic Excel workbook creation
-- [x] Four-worksheet structure
-- [ ] Income and expense management
-- [ ] Data validation and dropdown lists
-- [ ] Financial dashboard
-- [ ] Charts and financial indicators
+- Python
+- Pandas
+- OpenPyXL
+- Google Colab
+- Microsoft Excel
+- Git and GitHub
 
-## Project Status
+### Planned Integrations
 
-**Work in progress.**
+- Streamlit
+- Plotly
+- PostgreSQL
+- Supabase
+- Cloud Computing
+- GitHub Actions
 
-The current version focuses on building the spreadsheet structure. Additional features will be documented as they are implemented and tested.
+## 📂 Project Structure
 
-## Next Steps
+| Directory | Description |
+|-----------|-------------|
+| notebooks | Development notebooks |
+| src | Python source code |
+| data | Synthetic financial datasets |
+| output | Generated Excel files |
+| assets | Screenshots and visual resources |
+| docs | Project documentation |
+| tests | Automated tests |
 
-My next goal is to make the spreadsheet easier to use by adding transaction management, automatic calculations, and a dashboard.
+## 🗺️ Development Roadmap
 
-## Author
+- [ ] Week 1 - Automated Excel Dashboard
+- [ ] Week 2 - Web Application and Cloud Deployment
+- [ ] Week 3 - Financial Planning and Analytics
+- [ ] Week 4 - Testing and Product Refinement
 
-**Thales Farias**
+## 🔒 Data Privacy
 
-Data Analytics | Python | Financial Services
+All datasets used in this public repository are synthetic.
+No real personal or banking information is included.
+
+## 📊 Project Status
+
+Currently under development.
+
+## 👨‍💻 Author
+
+Thales Farias
+
+Data Analytics | Financial Services | Software Engineering
 
 [GitHub](https://github.com/thalesfreirefarias)
