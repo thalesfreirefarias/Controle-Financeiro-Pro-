@@ -26,6 +26,12 @@ The project combines Python, financial analytics, Business Intelligence, and sof
 - Automatic financial calculations
 - Editable transaction table with data validation
 
+## 🖼️ Dashboard Preview
+
+![Dashboard Visual Concept](assets/dashboard_preview.png)
+
+*Enhanced visual concept of the Excel dashboard.*
+
 ## 🛠️ Technologies
 
 | Technology | Purpose |
